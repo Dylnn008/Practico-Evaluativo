@@ -1,0 +1,24 @@
+body{
+   background-color: rgb(27, 172, 182);
+}
+h1{
+    margin: 10%;
+    border: 10px;
+    padding: 10px;
+    justify-self: center;
+    display: flex;
+}
+h2{
+    margin: 10%;
+    border: 0px;
+    padding: 10px;
+    justify-self: center;
+    display: flex;
+}
+p{
+margin: 10%;
+border: 10px;
+padding: 20px;
+justify-self: center;
+display: flex;
+}
